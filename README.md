@@ -64,6 +64,14 @@
             padding: 10px;
             text-align: center;
         }
+         }
+        .imagem {
+            position: absolute;
+            top: 0;         /* Canto superior */
+            left: 0;        /* Canto esquerdo */
+            width: 20%;     /* Agora é 20% da largura para 50% menor */
+            height: auto;   /* Mantém a proporção da imagem */
+        }
     </style>
 </head>
 <body>
