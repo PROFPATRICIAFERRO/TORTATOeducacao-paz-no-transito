@@ -69,6 +69,8 @@
 <body>
 
 <header>
+          <img src="1.png" alt="Descrição da Imagem" class="imagem">
+
     <h1>Colégio Estadual Antonio Tortato</h1>
 </header>
 
