@@ -69,7 +69,7 @@
 <body>
 
 <header>
-          <img src="1.png" alt="Descrição da Imagem" class="imagem">
+          <img src="WhatsApp Image 2024-09-23 at 20.55.00.jpeg" alt="Descrição da Imagem" class="imagem">
 
     <h1>Colégio Estadual Antonio Tortato</h1>
 </header>
